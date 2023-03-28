@@ -1,0 +1,51 @@
+bodyh1,h2,h3,h4,h5,p,a{
+    margin: 0px;
+    text-decoration: none;
+}
+.button{
+    border: 1px solid rgb(124, 32, 97);
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color:rgb(255, 87, 205);
+}
+.button:hover{
+    border: 1px solid rgb(255, 87, 205);
+    border-radius: 5px;
+    margin-top: 20px;
+    color: aliceblue;
+    background-color: rgb(87, 44, 128);
+}
+a{
+   
+    color: black;
+}
+
+.header_container{
+    width: 100%;
+    margin: 5px;
+    background-color: rgb(242, 190, 255);
+
+    display: flex;
+    justify-content: center;
+}
+.header_content{
+    max-width: 1200px;
+    background-color: rgb(230, 69, 245);
+
+    display: flex;
+    flex: 1;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+.menu_items{
+    display: flex;
+    justify-content:space-around;
+    flex: 1;
+    align-items: flex-start;
+}
+.knopka
